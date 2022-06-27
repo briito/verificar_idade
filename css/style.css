@@ -1,0 +1,44 @@
+
+
+body{
+
+    background: rgb(79, 79, 250);
+    font: normal 15pt arial;
+    background-image: linear-gradient(to left, rgb(131, 131, 207),rgb(169, 150, 150));
+
+}
+
+header{
+
+    color: chartreuse;
+    text-align: center;
+    
+}
+
+section{
+
+    background: white;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    /* text-align: center; */
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.765);
+    font-weight: bold;
+    
+}
+
+
+img{
+
+    border-radius: 200px;
+    padding: 20px;
+}
+
+footer{
+
+    color: chartreuse;
+    text-align: center;
+    font-style: italic;
+    
+}
